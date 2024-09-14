@@ -1,2 +1,3 @@
 venv/
 detected_deepfakes/
+deepfake_detection.log
